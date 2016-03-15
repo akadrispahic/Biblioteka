@@ -213,7 +213,13 @@
     </Compile>
     <Compile Include="Models\AccountBindingModels.cs" />
     <Compile Include="Models\AccountViewModels.cs" />
+    <Compile Include="Models\Clanstvo.cs" />
     <Compile Include="Models\IdentityModels.cs" />
+    <Compile Include="Models\Korisnik.cs" />
+    <Compile Include="Models\KorisnikContext.cs" />
+    <Compile Include="Models\KorisnikDatabaseInitializer.cs" />
+    <Compile Include="Models\TipRacuna.cs" />
+    <Compile Include="ProductDatabaseInitializer.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Providers\ApplicationOAuthProvider.cs" />
     <Compile Include="Results\ChallengeResult.cs" />
